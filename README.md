@@ -1,0 +1,1 @@
+# -STIG-Remediation-Windows-Application-Log-Size
